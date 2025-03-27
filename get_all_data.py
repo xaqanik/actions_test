@@ -10,7 +10,7 @@ if path.is_file() == False:
   df_current.to_csv("usgs_main.csv", index = False)
 
 else:
-  # if the file already exists, save it to a dataframe and then append to a new one    
+  # if the file already exists, save it to a dataframe and then append to a new onae    
   df_main_old = pd.read_csv("usgs_main.csv")
   df_main_new = pd.concat([df_main_old,df_current])
 
