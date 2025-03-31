@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-31T21:41:51.990Z,38.812168121338,-122.82983398438,1.6100000143051,1.16,md,13,96,0.003335,0.02,nc,nc75158247,2025-03-31T21:43:28.822Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.569999993,0.31,13,automatic,nc,nc
 2025-03-31T21:33:18.510Z,33.4718333,-116.4721667,7.79,1,ml,25,54,0.111,0.15,ci,ci40913911,2025-03-31T21:38:27.024Z,"21 km ESE of Anza, CA",earthquake,0.22,0.72,0.159,28,automatic,ci,ci
 2025-03-31T21:21:58.130Z,44.353666666667,-116.091,9.52,1.14,ml,8,156,0.0507,0.13,mb,mb90076338,2025-03-31T21:38:20.100Z,"5 km N of Smiths Ferry, Idaho",earthquake,0.72,1.77,0.26121723585521,6,reviewed,mb,mb
 2025-03-31T20:51:15.771Z,63.074,-145.2655,7.7,1.6,ml,,,,0.37,ak,ak025456kva1,2025-03-31T20:53:40.408Z,"17 km E of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -228,6 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-30T21:53:32.043Z,64.9344,-147.5702,16.9,0.3,ml,,,,0.32,ak,ak02543jnf2s,2025-03-30T21:55:58.207Z,"3 km SE of Fox, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-03-30T21:51:45.353Z,-20.2527,-174.1096,31.142,5.3,mww,53,69,17.331,0.59,us,us7000pnxn,2025-03-31T01:34:23.134Z,"54 km SSE of Pangai, Tonga",earthquake,15.09,4.552,0.103,9,reviewed,us,us
 2025-03-30T21:51:22.160Z,38.792167663574,-122.77716827393,1.8899999856949,1.13,md,17,78,0.008461,0.03,nc,nc75157842,2025-03-30T21:53:26.251Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.479999989,0.21,19,automatic,nc,nc
-2025-03-30T21:48:48.590Z,38.791168212891,-122.77616882324,1.3999999761581,2.14,md,42,79,0.009399,0.06,nc,nc75157837,2025-03-30T21:50:57.576Z,"2 km NW of The Geysers, CA",earthquake,0.19,0.25,0.17,44,automatic,nc,nc
-2025-03-30T21:44:04.577Z,30.333,89.9746,10,4.3,mb,18,117,1.181,0.55,us,us7000pnxl,2025-03-30T23:53:44.040Z,"82 km WNW of Dêqên, China",earthquake,9.28,1.974,0.099,30,reviewed,us,us
-2025-03-30T21:42:25.740Z,38.822834014893,-122.80383300781,2.7599999904633,0.71,md,7,83,0.004907,0.01,nc,nc75157832,2025-03-30T21:44:32.095Z,"7 km NNW of The Geysers, CA",earthquake,0.91,2.25999999,0.07,9,automatic,nc,nc
