@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-21T07:20:46.965Z,37.364,-117.1703,2.2,2.2,ml,37,91.21,0.096,0.252,nn,nn00896598,2025-04-21T07:23:55.109Z,"38 km S of Goldfield, Nevada",earthquake,,0.9,0.3,24,automatic,nn,nn
 2025-04-21T06:51:05.937Z,63.2758,-151.7715,6.4,1.6,ml,,,,0.53,ak,ak02553oj2f5,2025-04-21T06:53:03.952Z,"29 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-21T06:43:32.499Z,37.3601,-117.197,5,1.5,ml,28,101.6,0.078,0.2278,nn,nn00896596,2025-04-21T06:45:31.821Z,"38 km S of Goldfield, Nevada",earthquake,,1.2,0.27,21,automatic,nn,nn
 2025-04-21T06:21:47.421Z,63.4665,-148.8995,94.2,1.9,ml,,,,0.35,ak,ak02553ocq52,2025-04-21T06:23:45.484Z,"8 km NNE of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -246,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-20T08:01:06.630Z,38.829833984375,-122.81833648682,1.8600000143051,1.47,md,27,62,0.00911,0.02,nc,nc75168586,2025-04-20T10:27:17.677Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.319999993,0.13,27,automatic,nc,nc
 2025-04-20T07:50:36.438Z,59.9305,-152.2841,80,1.5,ml,,,,0.36,ak,ak025521l063,2025-04-20T07:52:12.887Z,"30 km NW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-20T07:49:56.380Z,34.5298333,-117.3373333,9.04,1.96,ml,97,32,0.0314,0.17,ci,ci40934071,2025-04-20T20:39:16.673Z,"4 km NNE of Mountain View Acres, CA",earthquake,0.11,0.29,0.155,26,reviewed,ci,ci
-2025-04-20T07:12:37.770Z,33.9421667,-117.0195,16.08,0.8,ml,38,57,0.1662,0.16,ci,ci40934055,2025-04-20T13:45:15.817Z,"4 km WNW of Beaumont, CA",earthquake,0.17,0.6,0.181,28,reviewed,ci,ci
