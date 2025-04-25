@@ -14,9 +14,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-25T19:47:29.650Z,38.804164886475,-122.7808303833,1.4400000572205,1.05,md,15,77,0.009082,0.02,nc,nc75171476,2025-04-25T20:22:19.479Z,"4 km NNW of The Geysers, CA",earthquake,0.23,0.460000008,0.12,16,automatic,nc,nc
 2025-04-25T19:39:49.082Z,60.0999,-153.3784,144.5,1.1,ml,,,,0.19,ak,ak0255aiclzw,2025-04-25T19:41:53.049Z,"53 km ESE of Port Alsworth, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-04-25T19:20:38.604Z,38.4819,-117.6077,3.3,2.6,ml,11,81.66,0.048,0.1412,nn,nn00896803,2025-04-25T20:46:53.628Z,"44 km ENE of Mina, Nevada",earthquake,,2,0.34,7,reviewed,nn,nn
-2025-04-25T19:17:02.930Z,58.1275,-153.1488,34.8,4.5,ml,,,,0.7,ak,ak0255ai7sp2,2025-04-25T20:44:29.270Z,"15 km WNW of Aleneva, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2025-04-25T19:17:02.930Z,58.1275,-153.1488,34.8,4.5,ml,,,,0.7,ak,ak0255ai7sp2,2025-04-25T21:35:57.934Z,"15 km WNW of Aleneva, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-04-25T19:10:05.620Z,38.826831817627,-122.8125,1.7699999809265,0.72,md,8,158,0.02081,0.01,nc,nc75171441,2025-04-25T19:52:17.194Z,"7 km NNW of The Geysers, CA",earthquake,0.6,1.47000003,0.16,8,automatic,nc,nc
-2025-04-25T19:03:40.390Z,19.229166666667,-67.747333333333,17.38,3.42,md,21,250,0.9303,0.18,pr,pr71480063,2025-04-25T19:38:57.300Z,"99 km NE of Punta Cana, Dominican Republic",earthquake,1.55,3.09,0.081268751910273,14,reviewed,pr,pr
+2025-04-25T19:03:40.390Z,19.229166666667,-67.747333333333,17.38,3.42,md,21,250,0.9303,0.18,pr,pr71480063,2025-04-25T21:36:18.040Z,"99 km NE of Punta Cana, Dominican Republic",earthquake,1.55,3.09,0.081268751910273,14,reviewed,pr,pr
 2025-04-25T19:01:36.480Z,33.866,-117.5146667,9.44,1.28,ml,35,38,0.07555,0.4,ci,ci41134192,2025-04-25T19:05:26.625Z,"2 km SSE of Home Gardens, CA",earthquake,0.58,1.14,0.242,31,automatic,ci,ci
 2025-04-25T18:42:33.130Z,38.787498474121,-122.77066802978,2.6099998950958,1.35,md,30,81,0.01463,0.04,nc,nc75171416,2025-04-25T20:47:18.675Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.400000006,0.13,28,automatic,nc,nc
 2025-04-25T18:16:56.290Z,33.0348333,-114.9878333,4.19,1.52,ml,16,54,0.06298,0.21,ci,ci41134160,2025-04-25T18:21:41.304Z,"44 km NNW of Los Algodones, B.C., MX",earthquake,0.48,1.95,0.095,13,reviewed,ci,ci
@@ -207,6 +207,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-25T00:11:13.337Z,37.8844,-116.1542,4.2,1.4,ml,12,241.68,0.68,0.2402,nn,nn00896788,2025-04-25T00:13:30.429Z,"44 km NW of Rachel, Nevada",earthquake,,3.8,0.29,8,automatic,nn,nn
 2025-04-25T00:02:03.339Z,34.15433333,-97.49916667,26.36,1.07,ml,16,130,0.2096588578,0.28,ok,ok2025iahk,2025-04-25T12:53:41.529Z,"6 km W of Wilson, Oklahoma",earthquake,,1.6,0.3,6,reviewed,ok,ok
 2025-04-25T00:00:11.950Z,34.4401667,-119.2585,10.57,1.25,ml,14,68,0.05444,0.23,ci,ci41129632,2025-04-25T19:31:12.124Z,"2 km WSW of Ojai, CA",earthquake,0.43,1.06,0.211,13,reviewed,ci,ci
+2025-04-24T23:59:51.760Z,53.801666666667,-166.57033333333,8.99,-0.07,ml,7,227,0.05853,0.13,av,av93585861,2025-04-25T21:45:12.650Z,"8 km SSW of Unalaska, Alaska",earthquake,0.58,1.06,0.21372034455901,7,reviewed,av,av
 2025-04-24T23:55:05.197Z,36.7,-116.3322,7.9,0.3,ml,17,134.25,0.028,0.0688,nn,nn00896787,2025-04-25T13:30:14.308Z,"44 km ESE of Beatty, Nevada",earthquake,,1.6,0.25,4,reviewed,nn,nn
 2025-04-24T23:52:42.574Z,61.7343,-149.9596,44.5,1.4,ml,,,,0.77,ak,ak02558x9rq9,2025-04-24T23:54:13.694Z,"4 km ESE of Willow, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-04-24T23:47:55.925Z,60.6247,-150.4903,54.1,1.2,ml,,,,0.2,ak,ak02558x8q6g,2025-04-24T23:49:27.943Z,"17 km ENE of Sterling, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -230,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-24T21:51:23.140Z,53.9235,-166.9985,34.89,-0.02,ml,6,290,0.1206,0.18,av,av93039924,2025-04-25T20:15:41.620Z,"30 km W of Dutch Harbor, Alaska",earthquake,3.54,2.48,0.17638811032632,6,reviewed,av,av
 2025-04-24T21:48:13.900Z,35.3683333,-118.5551667,2.57,1.76,ml,33,70,0.1341,0.17,ci,ci41128840,2025-04-25T18:54:57.111Z,"25 km SSW of Bodfish, CA",earthquake,0.18,0.72,0.13,27,reviewed,ci,ci
 2025-04-24T21:47:44.910Z,53.872333333333,-166.98116666667,34.31,0.06,ml,7,262,0.06868,0.1,av,av93039919,2025-04-25T20:06:38.880Z,"28 km W of Dutch Harbor, Alaska",earthquake,1.4,0.72,0.24461065233362,7,reviewed,av,av
-2025-04-24T21:44:22.900Z,40.229167938232,-124.60516357422,15.930000305176,2.24,md,7,289,0.2095,0.06,nc,nc75170946,2025-04-24T22:07:18.390Z,"29 km W of Petrolia, CA",earthquake,4.36,1.33000004,0.04,2,automatic,nc,nc
-2025-04-24T21:40:05.940Z,32.7621667,-116.8996667,4.34,1.31,ml,25,73,0.04471,0.22,ci,ci41128728,2025-04-24T21:43:38.243Z,"4 km ENE of Rancho San Diego, CA",earthquake,0.37,1,0.29,15,automatic,ci,ci
