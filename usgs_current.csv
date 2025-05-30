@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-30T15:43:13.180Z,38.823001861572,-122.80283355713,3.0499999523163,0.92,md,20,55,0.005669,0.02,nc,nc75188676,2025-05-30T15:44:50.845Z,"6 km NNW of The Geysers, CA",earthquake,0.25,0.600000024,0.19,20,automatic,nc,nc
+2025-05-30T15:39:45.100Z,38.840667724609,-122.87983703613,2.4900000095367,0.63,md,8,101,0.003733,0.01,nc,nc75188666,2025-05-30T15:41:20.525Z,"13 km E of Cloverdale, CA",earthquake,0.57,0.720000029,0.07,8,automatic,nc,nc
+2025-05-30T15:38:26.022Z,61.8828,-149.9886,32.1,1.7,ml,,,,0.44,ak,ak0256wbrrd6,2025-05-30T15:40:04.620Z,"15 km N of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-30T15:31:46.005Z,31.528,-104.017,4.3189,1.5,ml,31,58,0,0.3,tx,tx2025knld,2025-05-30T15:36:49.596Z,"31 km NW of Toyah, Texas",earthquake,0,1.0374871492386,0.1,21,automatic,tx,tx
 2025-05-30T15:28:33.150Z,33.5375,-116.7211667,5.3,0.64,ml,31,29,0.03092,0.12,ci,ci40981015,2025-05-30T15:32:01.189Z,"5 km WSW of Anza, CA",earthquake,0.14,0.34,0.166,19,automatic,ci,ci
 2025-05-30T15:19:07.270Z,35.0985,-118.272,2.81,0.98,ml,20,54,0.07998,0.12,ci,ci40981007,2025-05-30T15:22:37.640Z,"10 km WNW of Mojave, CA",earthquake,0.17,0.29,0.226,21,automatic,ci,ci
@@ -209,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-29T16:24:29.883Z,31.936,-103.388,8.6216,1.4,ml,10,97,0,0.3,tx,tx2025klqz,2025-05-29T16:28:52.064Z,"26 km SW of Jal, New Mexico",earthquake,0,2.7193009853363,0.2,7,automatic,tx,tx
 2025-05-29T16:23:14.390Z,38.829498291016,-122.80366516113,1.4299999475479,1.1,md,23,38,0.007887,0.02,nc,nc75188251,2025-05-29T17:22:15.362Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.360000014,0.07,24,automatic,nc,nc
 2025-05-29T16:02:49.200Z,38.787166595459,-122.74716949463,1.8999999761581,0.76,md,13,83,0.009057,0.01,nc,nc75188241,2025-05-29T16:37:16.054Z,"1 km NE of The Geysers, CA",earthquake,0.27,0.610000014,0.06,12,automatic,nc,nc
-2025-05-29T15:41:58.474Z,31.938,-103.371,7.9834,2.7,ml,16,72,0,0.1,tx,tx2025klpu,2025-05-29T16:55:32.040Z,"25 km SW of Jal, New Mexico",earthquake,0.91770794744961,0.65936308122507,0.2,19,reviewed,tx,tx
