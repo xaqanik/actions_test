@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-09T04:36:31.809Z,31.585,-104.569,4.0496,1.5,ml,19,122,0.1,0.3,tx,tx2025lewo,2025-06-09T05:00:54.108Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.6794027090073,0.1,12,automatic,tx,tx
 2025-06-09T04:31:47.709Z,31.658,-104.335,4.5359,2.5,ml,40,69,0.1,0.4,tx,tx2025lewj,2025-06-09T04:56:45.040Z,"57 km S of Whites City, New Mexico",earthquake,0,0.91767460107803,0.2,30,automatic,tx,tx
 2025-06-09T04:31:08.838Z,31.665,-104.346,10.0239,1.4,ml,8,179,0.1,0.8,tx,tx2025lewh,2025-06-09T04:33:45.426Z,"56 km S of Whites City, New Mexico",earthquake,0,5.6325612068176,0.5,5,automatic,tx,tx
-2025-06-09T04:30:11.710Z,38.016834259033,-122.31066894531,9.3500003814697,3.44,ml,99,37,0.03159,0.19,nc,nc75193041,2025-06-09T07:38:47.434Z,"2 km NNW of Pinole, CA",earthquake,0.2,0.430000007,0.303,67,reviewed,nc,nc
+2025-06-09T04:30:11.710Z,38.016834259033,-122.31066894531,9.3500003814697,3.44,ml,99,37,0.03159,0.19,nc,nc75193041,2025-06-09T07:44:06.278Z,"2 km NNW of Pinole, CA",earthquake,0.2,0.430000007,0.303,67,reviewed,nc,nc
 2025-06-09T04:27:55.830Z,38.014999389648,-122.30349731445,7.8200001716614,1.16,md,8,108,0.04964,0.04,nc,nc75193031,2025-06-09T06:07:30.777Z,"1 km  of Pinole, CA",earthquake,0.45,1.40999997,0.09,7,automatic,nc,nc
 2025-06-09T04:25:03.625Z,31.659,-104.337,4.2502,2,ml,39,69,0.1,0.4,tx,tx2025lewc,2025-06-09T04:31:11.028Z,"57 km S of Whites City, New Mexico",earthquake,0,0.91977381706238,0.2,28,automatic,tx,tx
 2025-06-09T04:18:37.700Z,36.769832611084,-121.51383209228,8.9899997711182,1.87,md,37,44,0.04119,0.13,nc,nc75193021,2025-06-09T04:22:01.930Z,"9 km S of San Juan Bautista, CA",earthquake,0.29,0.469999999,0.13,32,automatic,nc,nc
@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-08T08:02:54.001Z,64.6528,-149.1736,16.6,1.2,ml,,,,0.52,ak,ak0257b386yg,2025-06-08T08:04:52.237Z,"6 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-08T07:57:40.878Z,38.1155,-116.1682,16,0.8,ml,8,292.49,0.914,0.4648,nn,nn00898662,2025-06-08T08:00:12.738Z,"64 km NW of Rachel, Nevada",earthquake,,1.6,0.53,5,automatic,nn,nn
 2025-06-08T07:52:01.310Z,35.3225,-117.813,7.35,0.9,ml,33,65,0.06116,0.17,ci,ci41179120,2025-06-08T13:34:02.183Z,"17 km WSW of Johannesburg, CA",earthquake,0.18,0.48,0.173,17,reviewed,ci,ci
-2025-06-08T07:40:38.930Z,44.8315,-111.48883333333,13.7,0.73,ml,15,132,0.04187,0.15,mb,mb90094703,2025-06-08T12:51:57.680Z,"24 km WNW of Hebgen Lake Estates, Montana",earthquake,0.44,0.86,0.16840171294788,9,reviewed,mb,mb
