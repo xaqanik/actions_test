@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-14T20:21:01.170Z,38.802665710449,-122.77766418457,3.420000076294,0.76,md,10,72,0.01084,0.03,nc,nc75195766,2025-06-14T20:22:36.351Z,"3 km NNW of The Geysers, CA",earthquake,0.43,1.09000003,0.06,11,automatic,nc,nc
+2025-06-14T20:16:01.190Z,34.1675,-116.4225,9.21,0.99,ml,29,54,0.03231,0.15,ci,ci40994471,2025-06-14T20:20:59.679Z,"6 km N of Yucca Valley, CA",earthquake,0.18,0.44,0.204,27,automatic,ci,ci
+2025-06-14T20:02:11.990Z,36.53783416748,-121.15116882324,4.2800002098083,1.49,md,12,117,0.04361,0.27,nc,nc75195756,2025-06-14T20:03:50.899Z,"1 km NW of Pinnacles, CA",earthquake,0.91,2.78999996,0.23,10,automatic,nc,nc
 2025-06-14T19:40:10.090Z,33.5316667,-116.7325,5.59,0.57,ml,21,41,0.03388,0.12,ci,ci40994439,2025-06-14T19:43:38.104Z,"6 km WSW of Anza, CA",earthquake,0.15,0.35,0.166,18,automatic,ci,ci
 2025-06-14T19:39:05.030Z,38.775001525879,-122.72916412353,1.4800000190735,0.77,md,10,77,0.01013,0.02,nc,nc75195751,2025-06-14T19:40:41.045Z,"2 km ESE of The Geysers, CA",earthquake,0.24,0.50999999,0.07,8,automatic,nc,nc
 2025-06-14T19:30:26.682Z,40.1525,-119.1422,15.8,1.4,ml,8,200.59,0.451,0.0809,nn,nn00898936,2025-06-14T19:32:48.140Z,"40 km NNE of Nixon, Nevada",earthquake,,1.3,0.25,4,automatic,nn,nn
@@ -36,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-14T14:46:25.250Z,38.811668395996,-122.80833435059,3.210000038147,1.29,md,21,46,0.01083,0.02,nc,nc75195646,2025-06-14T14:48:00.711Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.519999981,0.17,23,automatic,nc,nc
 2025-06-14T14:46:17.240Z,34.0461667,-117.2625,15.27,1.67,ml,91,22,0.06145,0.17,ci,ci40994167,2025-06-14T14:57:03.110Z,"0 km SSW of Loma Linda, CA",earthquake,0.13,0.21,0.206,27,automatic,ci,ci
 2025-06-14T14:40:16.230Z,36.836166381836,-121.32333374023,8.710000038147,0.8,md,4,187,0.0689,0.04,nc,nc75195641,2025-06-14T14:41:50.851Z,"5 km ENE of Ridgemark, CA",earthquake,1.8,3.72000003,0.04,3,automatic,nc,nc
-2025-06-14T14:32:06.018Z,65.7762,-145.7213,10.8,4.7,ml,,,,0.8,ak,ak0257l477bi,2025-06-14T19:45:51.645Z,"47 km WNW of Central, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2025-06-14T14:32:06.018Z,65.7762,-145.7213,10.8,4.7,ml,,,,0.8,ak,ak0257l477bi,2025-06-14T20:18:44.420Z,"47 km WNW of Central, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2025-06-14T14:19:01.000Z,34.1991667,-117.0925,2.14,0.83,ml,34,52,0.02794,0.17,ci,ci40994151,2025-06-14T14:23:03.298Z,"2 km ESE of Running Springs, CA",earthquake,0.17,0.25,0.167,19,automatic,ci,ci
 2025-06-14T14:12:46.594Z,60.9932,-150.794,50.4,2.3,ml,,,,0.29,ak,ak0257l4304z,2025-06-14T14:31:44.040Z,"9 km NW of Point Possession, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-06-14T13:58:09.490Z,34.0015,-116.764,12.36,0.69,ml,31,106,0.04949,0.15,ci,ci40994135,2025-06-14T14:02:06.909Z,"10 km NNE of Cabazon, CA",earthquake,0.21,0.57,0.146,19,automatic,ci,ci
@@ -195,7 +198,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-14T03:31:51.260Z,35.8668333,-117.6478333,5.48,1.15,ml,26,66,0.08092,0.15,ci,ci40993767,2025-06-14T03:35:21.328Z,"25 km ESE of Little Lake, CA",earthquake,0.2,0.72,0.118,21,automatic,ci,ci
 2025-06-14T03:31:36.721Z,-1.2671,-80.9019,10,4.6,mb,42,170,1.625,1.03,us,us6000qk7i,2025-06-14T03:47:08.040Z,"36 km SW of Montecristi, Ecuador",earthquake,7.16,1.92,0.07,61,reviewed,us,us
 2025-06-14T03:16:04.794Z,63.7067,-152.3312,48.2,1.6,ml,,,,1.5,ak,ak0257kxk055,2025-06-14T03:19:24.716Z,"19 km S of Lake Minchumina, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2025-06-14T03:10:59.920Z,-36.4398,-110.8169,10,5.7,mww,58,117,9.37,1.16,us,us6000qk7h,2025-06-14T18:18:32.739Z,"southern East Pacific Rise",earthquake,10.99,1.892,0.086,13,reviewed,us,us
+2025-06-14T03:10:59.920Z,-36.4398,-110.8169,10,5.7,mww,58,117,9.37,1.16,us,us6000qk7h,2025-06-14T20:18:21.792Z,"southern East Pacific Rise",earthquake,10.99,1.892,0.086,13,reviewed,us,us
 2025-06-14T03:10:04.139Z,62.6168,-151.3334,89,1.5,ml,,,,0.76,ak,ak0257kxiprx,2025-06-14T03:12:31.964Z,"32 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-06-14T03:06:15.660Z,33.9728333,-116.6613333,14.54,1.39,ml,68,26,0.06646,0.17,ci,ci40993759,2025-06-14T03:09:54.525Z,"11 km SW of Morongo Valley, CA",earthquake,0.13,0.27,0.152,25,automatic,ci,ci
 2025-06-14T03:05:32.780Z,38.801334381104,-122.77033233643,1.3899999856949,0.77,md,8,117,0.008329,0.02,nc,nc75195376,2025-06-14T03:07:11.043Z,"3 km NNW of The Geysers, CA",earthquake,0.47,0.819999993,0.05,8,automatic,nc,nc
@@ -256,5 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-13T20:43:06.026Z,62.8647,-150.7355,105.7,1.9,ml,,,,0.25,ak,ak0257jkatca,2025-06-13T20:45:16.004Z,"41 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-13T20:37:36.480Z,38.827666666667,-122.8555,2.6,0.26,md,18,85,0.001079,0.03,nc,nc75195251,2025-06-13T22:58:03.048Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.44,0.233,17,reviewed,nc,nc
 2025-06-13T20:30:43.900Z,38.801166534424,-122.80266571045,2.8800001144409,0.8,md,10,109,0.008901,0.02,nc,nc75195246,2025-06-13T20:32:18.816Z,"5 km NW of The Geysers, CA",earthquake,0.45,0.860000014,0.12,11,automatic,nc,nc
-2025-06-13T20:21:47.810Z,53.851833333333,-166.47083333333,11.44,1.84,ml,11,201,0.02103,0.12,av,av93637211,2025-06-14T02:46:16.450Z,"4 km ESE of Unalaska, Alaska",earthquake,0.47,0.42,0.24776518727185,11,reviewed,av,av
-2025-06-13T19:59:02.060Z,44.758,-111.11833333333,11.06,1.04,ml,9,109,0.03909,0.1,uu,uu80110286,2025-06-13T21:02:00.660Z,"5 km ESE of Hebgen Lake Estates, Montana",earthquake,0.67,1.12,0.21056936599243,3,reviewed,uu,uu
