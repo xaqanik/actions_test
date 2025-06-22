@@ -201,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-21T07:58:21.520Z,35.3218333,-117.8128333,7.65,1.2,ml,37,84,0.06062,0.18,ci,ci41000335,2025-06-21T08:02:13.468Z,"17 km WSW of Johannesburg, CA",earthquake,0.18,0.52,0.125,27,automatic,ci,ci
 2025-06-21T07:50:31.630Z,18.260333333333,-66.26,14.66,3,md,29,84,0.1137,0.29,pr,pr71486363,2025-06-21T15:19:39.032Z,"3 km N of Palomas, Puerto Rico",earthquake,0.38,0.83,0.16877869063666,11,reviewed,pr,pr
 2025-06-21T07:50:20.236Z,65.275,-148.6759,16.1,0.7,ml,,,,0.61,ak,ak0257wkwhjb,2025-06-21T07:51:44.867Z,"28 km SSW of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-06-21T07:40:04.973Z,38.681,-119.8231,6.9,1.2,ml,10,110.7,0.27,0.1113,nn,nn00899219,2025-06-21T22:45:00.570Z,"3 km WSW of Markleeville, California",earthquake,,1.8,0.32,6,automatic,nn,nn
-2025-06-21T07:39:34.230Z,61.2234,-147.5571,3.9,1.6,ml,,,,0.44,ak,ak0257wku5qn,2025-06-21T07:41:08.380Z,"62 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
