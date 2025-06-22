@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-22T22:53:12.297Z,31.04,-103.734,4.3095,2.3,ml,15,71,0.1,0.6,tx,tx2025mfmicz,2025-06-22T22:55:25.082Z,"6 km N of Balmorhea, Texas",earthquake,0,1.5814969539642,0.3,11,automatic,tx,tx
 2025-06-22T22:40:10.890Z,34.0081667,-117.2166667,3.48,1,ml,40,24,0.07076,0.19,ci,ci41001127,2025-06-22T22:43:59.281Z,"6 km SE of Loma Linda, CA",earthquake,0.18,0.57,0.143,26,automatic,ci,ci
 2025-06-22T22:22:36.830Z,34.2136667,-117.6331667,11.56,1.04,ml,21,127,0.03274,0.16,ci,ci41001119,2025-06-22T22:26:55.277Z,"11 km NNW of Rancho Cucamonga, CA",earthquake,0.33,0.48,0.374,31,automatic,ci,ci
 2025-06-22T22:22:28.080Z,35.7103333,-117.5625,5.25,0.69,ml,23,65,0.1217,0.15,ci,ci41001111,2025-06-22T22:25:56.387Z,"14 km NE of Ridgecrest, CA",earthquake,0.22,0.76,0.097,9,automatic,ci,ci
