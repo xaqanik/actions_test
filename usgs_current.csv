@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-09T19:45:16.457Z,63.0917,-151.3509,0,1.2,ml,,,,0.71,ak,ak0258qjout9,2025-07-09T19:47:43.264Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-09T19:32:51.650Z,19.316333770752,-155.28633117676,32.20000076294,1.98,ml,36,106,0.02825,0.140000001,hv,hv74720137,2025-07-09T19:36:56.320Z,"15 km SSW of Volcano, Hawaii",earthquake,0.46,0.699999988,0.96,3,automatic,hv,hv
 2025-07-09T19:31:56.100Z,46.849166870117,-121.75450134277,0.14000000059605,0.360000014,md,11,101,,0.0299999993,uw,uw62137012,2025-07-09T19:33:25.930Z,"23 km ENE of Ashford, Washington",earthquake,0.37,0.879999995,,1,automatic,uw,uw
 2025-07-09T19:16:41.090Z,35.0741667,-119.5643333,17.38,1.26,ml,20,96,0.07812,0.18,ci,ci41018087,2025-07-09T19:20:11.619Z,"12 km SW of Taft, CA",earthquake,0.36,0.79,0.318,26,automatic,ci,ci
